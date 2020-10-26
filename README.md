@@ -11,8 +11,8 @@ Play mode allows the game to played user vs. user. Player 1 uses the 'W' & 'S' k
 Practice allows a user to play against the computer. The user can use either the 'W'/'S' or 'Up'/'Down' keys to move the paddle on the right. The paddle on the left is controlled by the computer and will move automatically to return the ball. First to score 10 points wins.
 
 ## Screenshots
-![start_screen](/images/screenshot1.jpg)
-![gameplay](/images/screenshot2.jpg)
+![start_screen](images\screenshot1.JPG)
+![gameplay](images\screenshot2.JPG)
 
 ## Prerequisites
 -[Lua](http://www.lua.org/download.html)
