@@ -11,12 +11,12 @@ Play mode allows the game to played user vs. user. Player 1 uses the 'W' & 'S' k
 Practice allows a user to play against the computer. The user can use either the 'W'/'S' or 'Up'/'Down' keys to move the paddle on the right. The paddle on the left is controlled by the computer and will move automatically to return the ball. First to score 10 points wins.
 
 ## Screenshots
-![start_screen](images\screenshot1.JPG)
-![gameplay](images\screenshot2.JPG)
+![start_screen](./images/screenshot1.JPG)
+![gameplay](./images/screenshot2.JPG)
 
 ## Prerequisites
--[Lua](http://www.lua.org/download.html)
--[LOVE2D](https://love2d.org/#download)
+1. [Lua](http://www.lua.org/download.html)
+2. [LOVE2D](https://love2d.org/#download)
 
 ## Installation
 1. Fork repositroy
